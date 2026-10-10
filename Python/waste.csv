@@ -1,0 +1,12 @@
+﻿fid;full_id;osm_id;osm_type;amenity;name:uk;name;healthcare;infectious waste;pathological waste;sharps waste;cytotoxic waste;chemical waste;radioactive waste;general/ non-hazardous waste;pharmaceutical waste;name_eng;type;beds
+1;n14224946009;14224946009;node;hospital;"Тренінговий центр ""Підтримане проживання""";UNBROKEN;hospital;1;1;1;1;1;1;1;1;UNBROKEN;rehabilitaion center;
+2;n2210469124;2210469124;node;hospital;Дитяча поліклініка клінічної лікарні Львівської залізниці;Лікарня Святого Миколая;hospital;1;1;1;1;1;1;1;1;St.Nicholas Children's Hospital;childrens's hospital;440
+3;n6598595686;6598595686;node;hospital;Центр здоров'я родини Людмили Лотоцької-Волкової;"Лікувально-діагностичний центр ""Південний""";hospital;1;1;1;1;1;1;1;1;"""Pivdennyi"" Medical-Diagnostic Center";outpatient clinic;0
+5;n4462353415;4462353415;node;hospital;Філія центру Св. Параскевії;"Лікувально-діагностичний центр ""Погулянка""
+";hospital;1;1;1;1;1;1;1;1;"""Pohulianka"" Medical-Diagnostic Center";outpatient clinic;0
+6;nmanual002;manual002;;;;"Лікувально-діагностичний центр ""Сихів"", Корпус №1";;1;1;1;1;1;1;1;1;"""Sykhiv"" Medical-Diagnostic Center";outpatient clinic;0
+7;n8941426026;8941426026;node;hospital;1-а міська клінічна лікарня імені Князя Лева;"Лікарня Святого Луки
+";hospital;1;1;1;1;1;1;1;1;St. Luke Hospital;adult hospital;475
+8;n4970172454;4970172454;node;hospital;Гінекологічне відділення № 2 комунальної 3-ї міської лікарні;Лікарня Святої Анни;hospital;1;1;1;1;1;1;1;1;1st city clinical maternity hospital;Maternity/Gynecology hospital;70
+9;n14224946008;14224946008;node;hospital;Відділення №2;"Лікувально-діагностичний центр ""Мазепи""";hospital;1;1;1;1;1;1;1;1;"""Mazepy"" Medical-Diagnostic Center";outpatient clinic;0
+10;nmanual001;manual001;;;;Лікарня Святого Пантелеймона;;1;1;1;1;1;1;1;1;St. Panteleimon Hospital;adult hospital;1500
